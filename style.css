@@ -6,7 +6,8 @@ img {
 li {
     display: flex;
     background-color: rgb(194, 233, 220);
-    font-size: 25px;
+    font-size: 20px;
     justify-content: flex-end;
+    align-content: center;
 
 }
