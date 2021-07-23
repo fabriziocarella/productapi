@@ -5,8 +5,8 @@ img {
 
 li {
     display: flex;
-    background-color: rgb(194, 233, 220);
-    font-size: 25px;
-    justify-content: flex-end;
+    background-color: black;
+    font-size: 50px;
+    justify-content: flex-start;
 
 }
